@@ -22,7 +22,7 @@ Système de recommandation de films construit sur le dataset **MovieLens Small**
 | Nom | Prénom |
 |-----|--------|
 | Jlassi | Safa |
-| Boujemaa | Inès |
+| Boujemaa | Ines |
 
 ---
 
@@ -39,8 +39,8 @@ dm-recommender-safajlassi-inesboujemaa/
 │   ├── film_centralite.csv
 │   ├── film_pagerank.csv
 │   └── communautes.csv
-├── rapport/
-│   └── rapport.pdf              # Rapport écrit (~10 pages)
+├── report/
+│   └── rapport_fouille_donnees.pdf              # Rapport écrit (~13 pages)
 ├── requirements.txt
 └── README.md
 ```

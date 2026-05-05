@@ -1,0 +1,7 @@
+# 📂 Dossier data/
+
+Ce dossier est destiné à contenir le dataset MovieLens Small.  
+Le fichier est téléchargé automatiquement lors de l’exécution du notebook.  
+
+⚠️ Le dataset n’est pas inclus dans le dépôt pour garder le repo léger.
+

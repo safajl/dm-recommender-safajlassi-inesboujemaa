@@ -1,7 +1,10 @@
-# 📂 Dossier data/
+# 📊 Dossier results/
 
-Ce dossier est destiné à contenir le dataset MovieLens Small.  
-Le fichier est téléchargé automatiquement lors de l’exécution du notebook.  
+Ce dossier contient les résultats générés automatiquement par le notebook :
 
-⚠️ Le dataset n’est pas inclus dans le dépôt pour garder le repo léger.
+- Clusters utilisateurs (K-Means, Hiérarchique)
+- Centralité et PageRank des films
+- Communautés détectées (Louvain)
+- Graphiques et visualisations
 
+⚠️ Le dossier est vide dans le dépôt initial. Les fichiers sont créés lors de l’exécution.

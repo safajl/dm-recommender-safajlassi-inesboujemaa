@@ -21,7 +21,7 @@ Système de recommandation de films construit sur le dataset **MovieLens Small**
 
 | Nom | Prénom |
 |-----|--------|
-| Jlassi | Safa |
+| DJlassi | Safa |
 | Boujemaa | Ines |
 
 ---
